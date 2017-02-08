@@ -16,6 +16,10 @@ gem 'coffee-rails',            '4.2.1'
 gem 'jquery-rails',            '4.1.1'
 gem 'turbolinks',              '5.0.1'
 gem 'jbuilder',                '2.4.1'
+<<<<<<< HEAD
+=======
+gem 'figaro',                  '1.1.1'
+>>>>>>> 26c0c32472b5677b698ad2b01ad75f629cefb94a
 # See https://github.com/rails/execjs#readme for more supported runtimes
 gem 'therubyracer', platforms: :ruby
 

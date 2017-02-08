@@ -22,3 +22,9 @@
 
 # Ignore uploaded test images.
 /public/uploads
+<<<<<<< HEAD
+=======
+
+# Ignore application configuration
+/config/application.yml
+>>>>>>> 26c0c32472b5677b698ad2b01ad75f629cefb94a
